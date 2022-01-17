@@ -3,6 +3,7 @@
 a collection of bash scripts, using vegrant to manage Linux VM's
 all the scripts conform to Linux program standard conventions.
 
+
 **add-local-user**:
 a shell script that adds users to the same Linux system as the
 script is executed on.
